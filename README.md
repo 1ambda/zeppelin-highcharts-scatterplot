@@ -524,7 +524,7 @@ height \t weight \t gender \n
 190.5 \t 98.2 \t Male  
 177.8 \t 84.1 \t Male  
 180.3 \t 83.2 \t Male  
-180.3 \t 83.2 \t Male 
+180.3 \t 83.2 \t Male  
 "
 ```
 
