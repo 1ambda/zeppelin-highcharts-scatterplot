@@ -530,4 +530,5 @@ height \t weight \t gender \n
 
 ## License
 
-See [https://shop.highsoft.com/faq](https://shop.highsoft.com/faq)
+- See [https://shop.highsoft.com/faq](https://shop.highsoft.com/faq)
+- Icon from [https://icons8.com](https://icons8.com/web-app/21233/scatter-plot)
